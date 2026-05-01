@@ -133,6 +133,7 @@ h1 a {
   height: 100%;
   object-fit: cover;
   display: block;
+  object-position: center 35%;
 }
 
 /* MAIN CONTENT */
